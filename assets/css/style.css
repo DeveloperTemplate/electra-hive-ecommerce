@@ -799,6 +799,7 @@ white-space: nowrap;
 }
 
 .product-cart .card {
+  overflow-x: auto !important;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px !important;
 }
 .product-cart .card .card-header h1, h2 {
@@ -832,7 +833,7 @@ white-space: nowrap;
 }
 
 .product-cart .cart-item {
-  padding: 20px 30px;
+  padding: 20px 0px;
 }
 .p-size {
   font-size: 13px;
