@@ -408,8 +408,10 @@ footer .bottom-footer a {
 }
 
 
-@media (min-width: 577px) and (max-width: 768px) { 
-
+@media (min-width: 577px) and (max-width: 1000px) { 
+  .hero-banner-title1 {
+    font-size: 16px;
+  }
 }
 
 .hero-banner-section .hero-banner {
