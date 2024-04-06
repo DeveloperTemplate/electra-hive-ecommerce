@@ -470,6 +470,12 @@ footer .bottom-footer a {
   color: #fff;
 }
 
+@media (min-width: 900px) and (max-width: 1490px) { 
+  .section-offer .section-offer-info .offer-info-title, .section-offer .section-offer-info .offer-info-dis {
+    font-size: 17px !important;
+  }
+}
+
 .section-offer .section-offer-info .btn-buy {
   font-weight: 600;
   padding: 10px 30px;
