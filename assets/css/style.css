@@ -368,6 +368,7 @@ footer .bottom-footer a {
   color: var(--text-active-color) !important;
   background-color: transparent !important;
 }
+
 #dealtimer {
   font-size: 25px;
   font-weight: 500;
